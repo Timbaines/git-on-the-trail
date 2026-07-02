@@ -1,4 +1,8 @@
-# Git On The Trail Workshop
+# Git On The Trail Workshop 
+
+**Norfolk.js** 
+
+**Date:** September 29, 2025
 
 Git Basics Crash Course: Learn the fundamentals of Git through the lens of planning and executing a hike on the Highline Trail in Glacier National Park. Just as a successful hike requires preparation, checkpoints, and safe navigation with your group, Git helps us track work, explore safely, and collaborate smoothly.
 
