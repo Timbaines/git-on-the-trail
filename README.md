@@ -26,8 +26,8 @@ git config --global user.email "your.email@example.com"
 Before beginning any hike, you need to establish a base camp where you'll organize your gear and plan your route.
 
 ```bash
-mkdir highline-adventure
-cd highline-adventure
+mkdir 2025-09-git-on-the-trail
+cd 2025-09-git-on-the-trail
 git init
 ```
 
